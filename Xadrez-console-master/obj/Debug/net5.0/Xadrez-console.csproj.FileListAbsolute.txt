@@ -1,0 +1,16 @@
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.exe
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.deps.json
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.runtimeconfig.json
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.runtimeconfig.dev.json
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.dll
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\ref\Xadrez-console.dll
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\bin\Debug\net5.0\Xadrez-console.pdb
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.csproj.AssemblyReference.cache
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.AssemblyInfoInputs.cache
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.AssemblyInfo.cs
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.dll
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\ref\Xadrez-console.dll
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.pdb
+C:\Users\Usuário.DESKTOP-PI1DGNU\Desktop\Caio\Xadrez-console-master\obj\Debug\net5.0\Xadrez-console.genruntimeconfig.cache

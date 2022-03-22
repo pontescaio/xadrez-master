@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OUVH/3jRetxJDjyQGncRzjXQ+WLPtfQGtb2tPlPB0Quwy3x2Zv/L9eT1LV6LOJEcVZvjjBsWrR7aJsHsPGNAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\Xadrez-console-master\\Xadrez-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
