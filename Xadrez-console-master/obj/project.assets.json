@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\Xadrez-console-master\\Xadrez-console.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\xadrez git\\xadrez-master\\Xadrez-console-master\\Xadrez-console.csproj",
       "projectName": "Xadrez-console",
-      "projectPath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\Xadrez-console-master\\Xadrez-console.csproj",
+      "projectPath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\xadrez git\\xadrez-master\\Xadrez-console-master\\Xadrez-console.csproj",
       "packagesPath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\Xadrez-console-master\\obj\\",
+      "outputPath": "C:\\Users\\Usuário.DESKTOP-PI1DGNU\\Desktop\\Caio\\xadrez git\\xadrez-master\\Xadrez-console-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
